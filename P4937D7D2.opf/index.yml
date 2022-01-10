@@ -1,0 +1,17 @@
+id: dd1ab16784064739b189448fcca01d92
+annotation_type: index
+revision: '00001'
+annotations:
+  ed23dc44ab394c6489d3006689f6bce8:
+    work_id: JGLG1
+    parts:
+      7c7a2c854c4d4e1f840bdec221846507:
+        work_id: JGLG1-1
+        span:
+        - vol: 1
+          start: 0
+          end: 1708
+    span:
+    - vol: 1
+      start: 0
+      end: 1708
